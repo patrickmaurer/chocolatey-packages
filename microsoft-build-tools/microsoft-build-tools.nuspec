@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>microsoft-build-tools</id>
+    <version>12.0.21005.1</version>
+    <title>Microsoft Build Tools 2013</title>
+    <authors>Microsoft Corporation</authors>
+    <owners>patm</owners>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=40760</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Microsoft Build Tools 2013</description>
+    <tags>Microsoft Build Tools 2013 MSBuild Compiler</tags>
+  </metadata>
+</package>
