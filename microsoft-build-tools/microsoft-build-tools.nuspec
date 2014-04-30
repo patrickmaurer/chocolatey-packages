@@ -11,6 +11,6 @@
     <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=40760</projectUrl>
     <tags>Microsoft Build Tools 2013 MSBuild Compiler</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://static.e-junkie.com/sslpic/120515.92ab955050f201841edd9e9cc5e67103.gif</iconUrl>
+    <iconUrl>http://www.msbuildextensionpack.com/favicon.ico</iconUrl>
   </metadata>
 </package>

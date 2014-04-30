@@ -12,6 +12,6 @@
 		<tags>msbuild extension pack</tags>
 		<licenseUrl>https://msbuildextensionpack.codeplex.com/license</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<iconUrl>https://static.e-junkie.com/sslpic/120515.92ab955050f201841edd9e9cc5e67103.gif</iconUrl>
+		<iconUrl>http://www.msbuildextensionpack.com/favicon.ico</iconUrl>
 	</metadata>
 </package>
