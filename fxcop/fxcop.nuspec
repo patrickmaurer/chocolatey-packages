@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>fxcop</id>
+		<version>10.0.30319.7</version>
+		<title>FxCop</title>
+		<authors>Microsoft Corporation</authors>
+		<owners>patm</owners>
+		<summary>Graphical User Interface and command line tools for performing static code analysis of .NET code.</summary>
+		<description>FxCop is a tool that performs static code analysis of .NET code. It provides hundreds of rules that perform various types of analysis (Design, Globalization, Interoperability, Maintainability, Mobility, Naming, Performance, Portability, Reliability, Security, Usage).</description>
+		<projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=6544</projectUrl>
+		<tags>FxCop static code analysis</tags>
+		<licenseUrl>http://go.microsoft.com/fwlink/?LinkID=186826</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>http://vkreynin.files.wordpress.com/2009/05/fxcop.png</iconUrl>
+	</metadata>
+</package>
