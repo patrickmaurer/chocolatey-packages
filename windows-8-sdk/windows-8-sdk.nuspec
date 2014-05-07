@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>windows-8-sdk</id>
+		<version>8.59.29750.0</version>
+		<title>Windows SDK for Windows 8</title>
+		<authors>Microsoft Corporation</authors>
+		<owners>patm</owners>
+		<summary>Windows Software Development Kit (SDK) for Windows 8</summary>
+		<description>The Windows Software Development Kit (SDK) for Windows 8 contains headers, libraries, and a selection of tools that you can use when you create apps that run on Windows operating systems. You can use the Windows SDK, along with your chosen development environment, to write Windows Store apps (only on Windows 8) using web technologies (such as HTML5, CSS3, and JavaScript), native (C++), and managed (C#, Visual Basic) code; desktop applications that use the native (Win32/COM) programming model; or desktop applications that use the managed (.NET Framework) programming model.</description>
+		<projectUrl>http://msdn.microsoft.com/en-us/windows/desktop/hh852363.aspx</projectUrl>
+		<tags>Windows Software Development Kit SDK Windows 8</tags>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>http://msdn.microsoft.com/Areas/Epx/Themes/Windows/Content/Winlogo_favicon.ico</iconUrl>
+	</metadata>
+</package>
