@@ -11,6 +11,6 @@
 		<projectUrl>http://msdn.microsoft.com/en-us/windows/desktop/bg162891.aspx</projectUrl>
 		<tags>Windows Software Development Kit SDK Windows 8.1</tags>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<iconUrl>http://msdn.microsoft.com/Areas/Epx/Themes/Windows/Content/Winlogo_favicon.ico</iconUrl>
+		<iconUrl>http://c.s-microsoft.com/en-us/CMSImages/windows_symbol_clr_56x56.png?version=3db565f2-d75c-d989-182d-07edaedef3c8</iconUrl>
 	</metadata>
 </package>
