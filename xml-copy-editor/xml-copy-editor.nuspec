@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>xml-copy-editor</id>
+		<version>1.2.1.1</version>
+		<title>Windows SDK for Windows 8</title>
+		<authors>Gerald Schmidt, Zane U. Ji</authors>
+		<owners>patm</owners>
+		<summary>XML Copy Editor is a fast, free, validating XML editor.</summary>
+		<description>XML Copy Editor is a fast, free, validating XML editor.</description>
+		<projectUrl>http://xml-copy-editor.sourceforge.net/</projectUrl>
+		<tags>XML Copy Editor DTD Schema Validation XSLT XPath</tags>
+		<licenseUrl>http://www.gnu.org/copyleft/gpl.html</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>http://xml-copy-editor.sourceforge.net/custom.jpg</iconUrl>
+	</metadata>
+</package>
