@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>crystalreports-for-visualstudio</id>
-		<version>13.0.10.1385</version>
+		<version>13.0.11.1467</version>
 		<title>Crystal Reports, version for Visual Studio</title>
 		<authors>SAP</authors>
 		<owners>patm</owners>
 		<summary>Crystal Reports version for Visual Studio</summary>
 		<description>SAP Crystal Reports, developer version for Microsoft Visual Studio</description>
 		<projectUrl>http://scn.sap.com/docs/DOC-7824</projectUrl>
-		<tags>SAP Crystal Reports, developer version for Microsoft Visual Studio</tags>
+		<tags>SAP Crystal Reports developer version for Microsoft Visual Studio</tags>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>http://rocketdock.com/images/screenshots/CrystalReports.png</iconUrl>
 	</metadata>
