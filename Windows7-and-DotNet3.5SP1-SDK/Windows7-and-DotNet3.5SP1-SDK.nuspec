@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>Windows7-and-DotNet3.5SP1-SDK</id>
+		<id>windows7-and-dotnet3.5sp1-sdk</id>
 		<version>7.0.7600.16385</version>
 		<title>Microsoft Windows SDK for Windows 7 and .NET Framework 3.5 SP1</title>
 		<authors>Microsoft Corporation</authors>
