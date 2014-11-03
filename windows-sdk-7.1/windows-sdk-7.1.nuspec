@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>windows7-and-dotnet4.0-sdk</id>
+		<id>windows-sdk-7.1</id>
 		<version>7.1.7600.30514</version>
 		<title>Microsoft Windows SDK for Windows 7 and .NET Framework 4</title>
 		<authors>Microsoft Corporation</authors>
@@ -9,7 +9,7 @@
 		<summary>Microsoft Windows Software Development Kit (SDK) for Windows 7 and .NET Framework 4</summary>
 		<description>The Windows SDK provides tools, compilers, headers, libraries, code samples, and a new help system that developers can use to create applications that run on Microsoft Windows. You can use the Windows SDK to write applications using the native (Win32/COM) or managed (.NET Framework) programming model.</description>
 		<projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=8442</projectUrl>
-		<tags>Microsoft Windows Software Development Kit SDK Windows 7 .NET Framework 4</tags>
+		<tags>Microsoft Windows Software Development Kit SDK 7 .NET Framework 4 dotnet netfx</tags>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>http://c.s-microsoft.com/en-us/CMSImages/windows_symbol_clr_56x56.png?version=3db565f2-d75c-d989-182d-07edaedef3c8</iconUrl>
 	</metadata>

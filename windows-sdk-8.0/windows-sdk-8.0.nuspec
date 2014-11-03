@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
-		<id>windows-8-sdk</id>
+		<id>windows-sdk-8.0</id>
 		<version>8.59.29750.0</version>
-		<title>Windows SDK for Windows 8</title>
+		<title>Microsoft Windows SDK for Windows 8 and .NET Framework 4.5</title>
 		<authors>Microsoft Corporation</authors>
 		<owners>patm</owners>
-		<summary>Windows Software Development Kit (SDK) for Windows 8</summary>
+		<summary>Microsoft Windows Software Development Kit (SDK) for Windows 8</summary>
 		<description>The Windows Software Development Kit (SDK) for Windows 8 contains headers, libraries, and a selection of tools that you can use when you create apps that run on Windows operating systems. You can use the Windows SDK, along with your chosen development environment, to write Windows Store apps (only on Windows 8) using web technologies (such as HTML5, CSS3, and JavaScript), native (C++), and managed (C#, Visual Basic) code; desktop applications that use the native (Win32/COM) programming model; or desktop applications that use the managed (.NET Framework) programming model.</description>
 		<projectUrl>http://msdn.microsoft.com/en-us/windows/desktop/hh852363.aspx</projectUrl>
-		<tags>Windows Software Development Kit SDK Windows 8</tags>
+		<tags>Microsoft Windows Software Development Kit SDK 8 .NET Framework 4.5 dotnet netfx</tags>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>http://c.s-microsoft.com/en-us/CMSImages/windows_symbol_clr_56x56.png?version=3db565f2-d75c-d989-182d-07edaedef3c8</iconUrl>
 	</metadata>
