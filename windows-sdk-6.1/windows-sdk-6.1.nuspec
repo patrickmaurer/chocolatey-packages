@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>windows-sdk-6.1</id>
+		<version>6.0.6001.18000</version>
+		<title>Microsoft Windows SDK for Windows Server 2008 and .NET Framework 3.5</title>
+		<authors>Microsoft Corporation</authors>
+		<owners>patm</owners>
+		<summary>Microsoft Windows Software Development Kit (SDK) for Windows Server 2008 and .NET Framework 3.5</summary>
+		<description>The Windows SDK for Windows Server® 2008 and .NET Framework 3.5 provides the documentation, samples, header files, libraries, and tools (including C++ compilers) that you need to develop applications to run on Windows Server 2008 and the .NET Framework 3.5. To build and run .NET Framework applications, you must have the corresponding version of the .NET Framework installed. This SDK is compatible with Visual Studio® 2008, including Visual Studio Express Editions, which are available free of charge.</description>
+		<projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=24826</projectUrl>
+		<tags>Microsoft Windows Software Development Kit SDK Server 2008 .NET Framework 3.5 dotnet netfx</tags>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>http://c.s-microsoft.com/en-us/CMSImages/windows_symbol_clr_56x56.png?version=3db565f2-d75c-d989-182d-07edaedef3c8</iconUrl>
+	</metadata>
+</package>
