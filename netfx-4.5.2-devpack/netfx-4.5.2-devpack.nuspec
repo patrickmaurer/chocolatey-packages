@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>netfx-4.5.2-devpack</id>
+		<version>4.5.51651</version>
+		<title>Microsoft .NET Framework 4.5.2 Developer Pack</title>
+		<authors>Microsoft Corporation</authors>
+		<owners>patm</owners>
+		<summary>Microsoft .NET Framework 4.5.2 Developer Pack for Windows Vista SP2, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2008 SP2 Windows Server 2008 R2 SP1, Windows Server 2012 and Windows Server 2012 R2.</summary>
+		<description>The .NET Framework 4.5.2 Developer Pack is a single package that installs .NET Framework Multi-targeting pack for .NET Framework 4.5.2 and also .NET Framework 4.5.2. Developers can build applications targeting the .NET Framework 4.5.2 using either Visual Studio 2013, Visual Studio 2012 or third party IDEs.</description>
+		<projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=42637</projectUrl>
+		<tags>Microsoft .NET Framework 4.5.2 Developer Pack Multi Targeting dotnet netfx KB2901951</tags>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>https://www.microsoft.com/net/images/chrome/net-logo.jpg</iconUrl>
+	</metadata>
+</package>
