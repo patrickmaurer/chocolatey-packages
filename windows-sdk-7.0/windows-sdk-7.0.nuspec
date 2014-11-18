@@ -9,8 +9,9 @@
 		<summary>Microsoft Windows Software Development Kit (SDK) for Windows 7 and .NET Framework 3.5 SP1</summary>
 		<description>The Windows SDK for Windows 7 and .NET Framework 3.5 SP1 provides the documentation, samples, header files, libraries, and tools (including C++ compilers) that you need to develop applications to run on Windows 7 and the .NET Framework 3.5 SP1. To build and run .NET Framework applications, you must have the corresponding version of the .NET Framework installed. This SDK is compatible with Visual Studio® 2008, including Visual Studio Express Editions, which are available free of charge.</description>
 		<projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=18950</projectUrl>
-		<tags>Microsoft Windows Software Development Kit SDK 7 .NET Framework 3.5 SP1 dotnet netfx</tags>
+		<licenseUrl>http://download.microsoft.com/download/8/8/0/8808A472-6450-4723-9C87-977069714B27/ReleaseNotes_Win7RTMSDK.Htm</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<tags>Microsoft Windows Software Development Kit SDK 7 .NET Framework 3.5 SP1 dotnet netfx</tags>
 		<iconUrl>http://c.s-microsoft.com/en-us/CMSImages/windows_symbol_clr_56x56.png?version=3db565f2-d75c-d989-182d-07edaedef3c8</iconUrl>
 	</metadata>
 </package>

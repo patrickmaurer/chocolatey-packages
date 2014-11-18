@@ -9,8 +9,9 @@
 		<summary>Microsoft Windows Software Development Kit (SDK) for Windows Vista and .NET Framework 3.0</summary>
 		<description>The Microsoft® Windows® Software Development Kit (SDK) Update for Windows Vista provides documentation, samples, header files, libraries, and tools designed to help you develop Windows applications using both native (Win32) and managed (.NET Framework) technologies.</description>
 		<projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=23719</projectUrl>
-		<tags>Microsoft Windows Software Development Kit SDK Vista .NET Framework 3.0 dotnet netfx</tags>
+		<licenseUrl>http://download.microsoft.com/download/6/2/2/622d5f37-9510-463a-8760-08f8e030d807/ReleaseNotes.Htm</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<tags>Microsoft Windows Software Development Kit SDK Vista .NET Framework 3.0 dotnet netfx</tags>
 		<iconUrl>http://c.s-microsoft.com/en-us/CMSImages/windows_symbol_clr_56x56.png?version=3db565f2-d75c-d989-182d-07edaedef3c8</iconUrl>
 	</metadata>
 </package>
