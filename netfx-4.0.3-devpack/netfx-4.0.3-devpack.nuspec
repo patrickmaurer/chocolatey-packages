@@ -7,7 +7,10 @@
 		<authors>Microsoft Corporation</authors>
 		<owners>patm</owners>
 		<summary>Multi-Targeting Pack for Microsoft .NET Framework 4.0.3 (KB2600213).</summary>
-		<description>This is the Targeting Pack for the Update 4.0.3 for Microsoft .NET Framework 4 to add support for designing and developing applications on Microsoft Visual Studio.</description>
+		<description>
+			This is the Targeting Pack for the Update 4.0.3 for Microsoft .NET Framework 4 to add support for designing and developing applications on Microsoft Visual Studio.
+			Note: The .NET Framework 4.0 Targeting Pack needs to be installed prior to installing this package. It is included in Windows SDK v7.1 or Visual Studio 2010.
+		</description>
 		<projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=29052</projectUrl>
 		<licenseUrl>http://msdn.microsoft.com/en-us/library/ms994405.aspx</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
