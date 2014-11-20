@@ -13,5 +13,8 @@
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<tags>Microsoft Windows Software Development Kit SDK 7 .NET Framework 4 dotnet netfx</tags>
 		<iconUrl>http://c.s-microsoft.com/en-us/CMSImages/windows_symbol_clr_56x56.png?version=3db565f2-d75c-d989-182d-07edaedef3c8</iconUrl>
+		<dependencies>
+			<dependency id="7zip.install" />
+		</dependencies>
 	</metadata>
 </package>
