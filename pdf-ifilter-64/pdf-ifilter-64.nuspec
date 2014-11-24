@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>pdf-ifilter-64</id>
+		<version>11.0.01</version>
+		<title>Adobe PDF iFilter for 64-bit platforms</title>
+		<authors>Adobe</authors>
+		<owners>patm</owners>
+		<summary>Adobe PDF iFilter allows the user to easily search for text within Adobe PDF documents using Microsoft indexing clients.</summary>
+		<description>
+			Adobe PDF iFilter is designed for end users or administrators who wish to index Adobe PDF documents using Microsoft indexing clients. This allows the user to easily search for text within Adobe PDF documents.
+			Integrates with existing operating systems and tools on your computer or within your company.
+			Provides an easy solution to search within Adobe PDF documents located on your computer, company network, and company intranet.
+			Greatly increases your ability to accurately locate information.
+			Note: This is the 64 bit version, the 32 bit version is bundled with Adobe Reader and Acrobat.
+		</description>
+		<projectUrl>http://www.adobe.com/support/downloads/detail.jsp?ftpID=5542</projectUrl>
+		<tags>Adobe Acrobat PDF iFilter 64-bit platforms</tags>
+		<licenseUrl>http://www.adobe.com/support/downloads/detail.jsp?ftpID=5542</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>https://www.adobe.com/content/dam/Adobe/images/shared/product_mnemonics/128x128/acrobat-128x128.png</iconUrl>
+	</metadata>
+</package>
