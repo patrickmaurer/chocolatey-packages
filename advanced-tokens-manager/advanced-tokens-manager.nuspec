@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>advanced-tokens-manager</id>
+		<version>3.5.5.20130929</version>
+		<title>Advanced Tokens Manager</title>
+		<authors>Josh Cell Softwares Corporation</authors>
+		<owners>patm</owners>
+		<summary>Advanced Tokens Manager is an easy to use application that helps you with Windows and Office activation backup and restore.</summary>
+		<description>Advanced Tokens Manager is an easy to use application that helps you with Windows and Office activation backup and restore.</description>
+		<projectUrl>http://joshcellsoftwares.com/products/advancedtokensmanager/</projectUrl>
+		<tags>Advanced Tokens Manager Windows Office Activation Backup Restore</tags>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>http://icongal.com/gallery/image/342542/app_password.png</iconUrl>
+	</metadata>
+</package>
