@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>VS2010.1</id>
+		<version>10.0.40219</version>
+		<title>Visual Studio 2010 Service Pack 1</title>
+		<authors>Microsoft Corporation</authors>
+		<owners>patm</owners>
+		<summary>Visual Studio 2010 Service Pack 1 (SP1) will upgrade all editions and languages of Visual Studio 2010 you have already installed.</summary>
+		<description>
+			Visual Studio 2010 Service Pack 1 (SP1) will upgrade all editions and languages of Visual Studio 2010 you have already installed.
+			This service pack release addresses issues that were found through a combination of customer and partner feedback,
+			as well as internal testing. These service packs offer Visual Studio users improvements in responsiveness and stability,
+			as well as completes some high-impact scenarios requested by customers.
+		</description>
+		<projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=23691</projectUrl>
+		<licenseUrl>http://go.microsoft.com/fwlink/?LinkId=210711</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<tags>Microsoft Visual Studio 2010 VS VS2010 SP Service Pack 1 KB983509</tags>
+		<iconUrl>https://mspartner.microsoft.com/it/it/publishingimages/articlehero_100x100_visualstudio.jpg</iconUrl>
+	</metadata>
+</package>
