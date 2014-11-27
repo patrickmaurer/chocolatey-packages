@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>VisualStudio2010ExpressCSharp</id>
+		<version>10.0.30319</version>
+		<title>Visual Studio 2010 Express C#</title>
+		<authors>Microsoft Corporation</authors>
+		<owners>patm</owners>
+		<summary>Build custom applications in Visual C#, a simple, powerful, type-safe, and object-oriented language that enables rapid application development with the expressiveness and elegance of C-style languages.</summary>
+		<description>Build custom applications in Visual C#, a simple, powerful, type-safe, and object-oriented language that enables rapid application development with the expressiveness and elegance of C-style languages. After installation, you can try this product for up to 30 days. You must register to obtain a free product key for ongoing use after 30 days.</description>
+		<projectUrl>http://www.visualstudio.com/en-us/downloads/download-visual-studio-vs#DownloadFamilies_4</projectUrl>
+		<licenseUrl>http://www.visualstudio.com/en-us/downloads/download-visual-studio-vs#DownloadFamilies_4</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<tags>Microsoft Visual Studio 2010 Express Edition C# CSharp VS VS2010</tags>
+		<iconUrl>https://mspartner.microsoft.com/it/it/publishingimages/articlehero_100x100_visualstudio.jpg</iconUrl>
+	</metadata>
+</package>
