@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>ie11</id>
+		<version>0.2</version>
+		<title>Microsoft Internet Explorer 11</title>
+		<authors>Microsoft Corporation</authors>
+		<owners>patm</owners>
+		<summary>Internet Explorer 11 lets users interact with the next generation of web apps, games, and media.</summary>
+		<description>Internet Explorer 11 lets users interact with the next generation of web apps, games, and media (Windows 7 and Server 2008 R2 only).</description>
+		<projectUrl>https://www.microsoft.com/ie</projectUrl>
+		<licenseUrl>http://windows.microsoft.com/en-us/internet-explorer/ie11-software-license-terms</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<tags>microsoft internet explorer ie 11 web browser</tags>
+		<iconUrl>https://c.s-microsoft.com/en-us/CMSImages/ie_symbol_clr_70x70.png?version=fdc2d692-7877-38f0-c246-be75d6e1724b</iconUrl>
+	</metadata>
+</package>
