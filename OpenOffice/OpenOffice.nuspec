@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+	<metadata>
+		<id>OpenOffice</id>
+		<version>4.1.1</version>
+		<title>Apache OpenOffice</title>
+		<authors>Apache Software Foundation</authors>
+		<owners>patm</owners>
+		<summary>Apache OpenOffice - The Free and Open Productivity Suite</summary>
+		<description>Compatible with other major office suites, Apache OpenOffice is free to download, use, and distribute.</description>
+		<projectUrl>https://www.openoffice.org/</projectUrl>
+		<licenseUrl>https://www.openoffice.org/license.html</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>https://www.openoffice.org/ui/VisualDesign/gifs/Icons/refresh_icons/pngs/OOo_Application_256x256.png</iconUrl>
+		<tags>Apache OpenOffice OpenOffice.org Writer Calc Impress Draw Base Math ODF</tags>
+	</metadata>
+</package>
