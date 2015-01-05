@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>BoxCryptorClassic</id>
+    <version>1.6.400.34</version>
+    <title>BoxCryptor Classic</title>
+    <authors>Secomba GmbH</authors>
+    <owners>Jens Willmer</owners>
+    <licenseUrl>https://www.boxcryptor.com/boxcryptor-classic</licenseUrl>
+    <projectUrl>https://www.boxcryptor.com/boxcryptor-classic</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Boxcryptor Classic was the first product of the Boxcryptor family to secure data in the cloud - officially released in 2011. It grew from a solution originally specific for Dropbox with basic features, to one that supports all main cloud providers, is available on all platforms and offering features such as filename encryption.</description>
+    <summary>Our Boxcryptor 1.x versions are now "Boxcryptor Classic"!</summary>
+    <releaseNotes />
+    <copyright>Secomba GmbH</copyright>
+    <tags>boxcryptor classic security encryption</tags>
+  </metadata>
+</package>
