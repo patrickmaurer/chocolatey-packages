@@ -2,17 +2,17 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>BoxCryptorClassic</id>
-    <version>1.6.400.34</version>
-    <title>BoxCryptor Classic</title>
+    <version>1.7.409.131</version>
+    <title>Boxcryptor Classic for Windows</title>	
     <authors>Secomba GmbH</authors>
-    <owners>Jens Willmer</owners>
-    <licenseUrl>https://www.boxcryptor.com/boxcryptor-classic</licenseUrl>
-    <projectUrl>https://www.boxcryptor.com/boxcryptor-classic</projectUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <owners>patm</owners>
+    <projectUrl>https://www.boxcryptor.com/classic</projectUrl>
+    <licenseUrl>https://www.boxcryptor.com/terms</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Boxcryptor Classic was the first product of the Boxcryptor family to secure data in the cloud - officially released in 2011. It grew from a solution originally specific for Dropbox with basic features, to one that supports all main cloud providers, is available on all platforms and offering features such as filename encryption.</description>
     <summary>Our Boxcryptor 1.x versions are now "Boxcryptor Classic"!</summary>
-    <releaseNotes />
     <copyright>Secomba GmbH</copyright>
-    <tags>boxcryptor classic security encryption</tags>
+    <iconUrl>https://lh3.ggpht.com/_cFhxWnQSqB97pvs8Q4450gUezfI9wDJ1shzbi9jKkSRuyGSN7I3dbiDmrcAjOhcHQYd</iconUrl>
+    <tags>boxcryptor classic security encryption secomba dropbox cloud</tags>
   </metadata>
 </package>
