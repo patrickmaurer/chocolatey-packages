@@ -9,10 +9,11 @@
 		<summary>Interact with JIRA issues and Bamboo builds in Visual Studio 2008, 2010, 2012, and 2013.</summary>
 		<description>
 			Interact with JIRA issues and Bamboo builds in Visual Studio 2008, 2010, 2012, and 2013. The Atlassian Connector for Visual Studio puts the most common issue and build-related activities into your IDE, including:
-			Creating JIRA issues,
-			adding and view JIRA comments,
-			perform workflow actions, and
-			view latest build results.
+
+			* Creating JIRA issues
+			* adding and view JIRA comments
+			* perform workflow actions
+			* view latest build results
 		</description>
 		<projectUrl>https://www.atlassian.com/software/ide-connectors/overview</projectUrl>
 		<licenseUrl>https://confluence.atlassian.com/display/IDEPLUGIN/License+and+Copyright+for+the+Visual+Studio+Connector</licenseUrl>
