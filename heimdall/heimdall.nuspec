@@ -18,7 +18,7 @@
 		<tags>Glass Echidna Heimdall Suite flash firmware ROM Samsung mobile devices USB Loke protocol Odin</tags>
 		<iconUrl>https://cdn.rawgit.com/patrickmaurer/chocolatey-packages/48a4b3dd9c77ff5afa5ef16eadeaa916d6f362a5/heimdall/heimdall-icon.png</iconUrl>
 		<dependencies>
-			<dependency id="vcredist2012" />
+			<dependency id="vcredist2012" version="11.0.61030" />
 		</dependencies>
 	</metadata>
 	<files>
