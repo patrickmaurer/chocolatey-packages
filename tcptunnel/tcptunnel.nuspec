@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>tcptunnel</id>
+		<version>0.8</version>
+		<title>Tcptunnel</title>
+		<authors>Clemens Fuchslocher</authors>
+		<owners>patm</owners>
+		<summary>Tcptunnel is a simple TCP port forwarder. This tool listens to a local TCP port and all the received data is sent to a remote host.</summary>
+		<description>Tcptunnel is a simple TCP port forwarder. This tool listens to a local TCP port and all the received data is sent to a remote host. It can be used to redirect TCP based protocols like HTTP, IRC, NNTP, SSH or SMTP.</description>
+		<projectUrl>http://www.vakuumverpackt.de/tcptunnel/</projectUrl>
+		<licenseUrl>https://github.com/vakuum/tcptunnel/blob/master/COPYING</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>https://openmerchantaccount.com/img/tcptunnel.png</iconUrl>
+		<tags>TCP tunnel port forwarder listen received data send remote host</tags>
+	</metadata>
+</package>
