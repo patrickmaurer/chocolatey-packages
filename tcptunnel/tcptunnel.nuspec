@@ -14,4 +14,7 @@
 		<iconUrl>https://openmerchantaccount.com/img/tcptunnel.png</iconUrl>
 		<tags>TCP tunnel port forwarder listen received data send remote host</tags>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>
