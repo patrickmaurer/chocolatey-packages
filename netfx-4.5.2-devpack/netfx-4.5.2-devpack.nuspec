@@ -14,4 +14,7 @@
 		<tags>Microsoft .NET Framework 4.5.2 Developer Pack Multi Targeting dotnet netfx KB2901951</tags>
 		<iconUrl>https://www.microsoft.com/net/images/chrome/net-logo.jpg</iconUrl>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>

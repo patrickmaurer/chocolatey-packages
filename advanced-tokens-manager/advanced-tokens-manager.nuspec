@@ -9,8 +9,12 @@
 		<summary>Advanced Tokens Manager is an easy to use application that helps you with Windows and Office activation backup and restore.</summary>
 		<description>Advanced Tokens Manager is an easy to use application that helps you with Windows and Office activation backup and restore.</description>
 		<projectUrl>http://joshcellsoftwares.com/products/advancedtokensmanager/</projectUrl>
-		<tags>Advanced Tokens Manager Windows Office Activation Backup Restore</tags>
+		<licenseUrl>http://joshcellsoftwares.com/license/</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>http://icongal.com/gallery/image/342542/app_password.png</iconUrl>
+		<tags>Advanced Tokens Manager Windows Office Activation Backup Restore</tags>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>

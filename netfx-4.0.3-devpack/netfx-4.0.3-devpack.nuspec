@@ -17,4 +17,7 @@
 		<tags>Microsoft .NET Framework 4.0.3 Developer Pack Multi Targeting dotnet netfx KB2600213</tags>
 		<iconUrl>https://www.microsoft.com/net/images/chrome/net-logo.jpg</iconUrl>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>

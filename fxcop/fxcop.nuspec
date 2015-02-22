@@ -14,4 +14,7 @@
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>http://vkreynin.files.wordpress.com/2009/05/fxcop.png</iconUrl>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>

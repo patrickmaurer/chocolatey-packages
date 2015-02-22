@@ -14,4 +14,7 @@
 		<iconUrl>https://openmerchantaccount.com/img/MSBuild.png</iconUrl>
 		<tags>msbuild extension pack</tags>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>

@@ -21,4 +21,7 @@
 		<iconUrl>https://marketplace-cdn.atlassian.com/files/PLVS/icons/default/4b58fd25-a1f7-461e-b9c8-585b6928f34b_high.png</iconUrl>
 		<tags>Atlassian Connector Visual Studio 2008 2010 2012 2013 IDE JIRA Bamboo</tags>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>

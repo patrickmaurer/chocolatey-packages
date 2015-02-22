@@ -14,9 +14,12 @@
 			as well as completes some high-impact scenarios requested by customers.
 		</description>
 		<projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=23691</projectUrl>
-		<licenseUrl>http://go.microsoft.com/fwlink/?LinkId=210711</licenseUrl>
+		<licenseUrl>http://msdn.microsoft.com/cc300389.aspx</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<tags>Microsoft Visual Studio 2010 VS VS2010 SP Service Pack 1 KB983509</tags>
 		<iconUrl>https://mspartner.microsoft.com/it/it/publishingimages/articlehero_100x100_visualstudio.jpg</iconUrl>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>

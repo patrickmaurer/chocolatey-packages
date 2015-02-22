@@ -14,4 +14,7 @@
 		<tags>Microsoft Visual Studio 2010 Express Edition C# CSharp VS VS2010</tags>
 		<iconUrl>https://mspartner.microsoft.com/it/it/publishingimages/articlehero_100x100_visualstudio.jpg</iconUrl>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>

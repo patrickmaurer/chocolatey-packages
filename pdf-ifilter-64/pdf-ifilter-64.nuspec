@@ -20,4 +20,7 @@
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>https://www.adobe.com/content/dam/Adobe/images/shared/product_mnemonics/128x128/acrobat-128x128.png</iconUrl>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>

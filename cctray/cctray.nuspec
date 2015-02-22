@@ -14,4 +14,7 @@
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>http://scwww.awdit.com/sicon/165/cf884b387e486103a6f127439b6e713b.png</iconUrl>
 	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
 </package>
