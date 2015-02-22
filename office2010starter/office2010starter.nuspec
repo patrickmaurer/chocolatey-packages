@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+	<metadata>
+		<id>office2010starter</id>
+		<version>14.0.7143.5001</version>
+		<title>Microsoft Office 2010 Starter</title>
+		<authors>Microsoft</authors>
+		<owners>patm</owners>
+		<summary>Microsoft Office Starter 2010 is a simplified, ad-funded version of Microsoft Office 2010.</summary>
+		<description>
+			Microsoft Office Starter 2010 is a simplified, ad-funded version of Microsoft Office 2010 that comes pre-loaded and ready to use on your computer.
+			Office Starter includes the spreadsheet program Microsoft Excel Starter 2010 and the word processing program Microsoft Word Starter 2010.
+			Office Starter also enables you to create a device you can use to run Office Starter on another computer, when you are away from the computer you usually use.
+		</description>
+		<projectUrl>https://support.office.microsoft.com/en-us/article/Introduction-to-Office-Starter-2010-26d725e3-4570-4829-a534-627728b10e85</projectUrl>
+		<licenseUrl>https://www.microsoft.com/en-us/download/details.aspx?id=13208</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>https://www.microsoft.com/global/student/en/us/PublishingImages/Icons/office2010.png</iconUrl>
+		<tags>microsoft office 2010 starter word excel click-to-run</tags>
+	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
+</package>
