@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>dataram-ramdisk</id>
+		<version>4.4.0.32</version>
+		<title>Dataram RAMDisk</title>
+		<authors>Dataram</authors>
+		<owners>patm</owners>
+		<summary>RAMDisk software uses the available RAM from your system to create a virtual disk drive.</summary>
+		<description>RAMDisk software uses the available RAM from your system to create a virtual disk drive.</description>
+		<projectUrl>http://memory.dataram.com/products-and-services/software/ramdisk</projectUrl>
+		<licenseUrl>http://memory.dataram.com/products-and-services/software/ramdisk-license-agreement</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>https://openmerchantaccount.com/img/RAMDisk.png</iconUrl>
+		<tags>Dataram RAMDisk virtual memory ram disk drive</tags>
+	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
+</package>
