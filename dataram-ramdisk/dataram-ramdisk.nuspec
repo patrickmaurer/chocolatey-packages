@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>dataram-ramdisk</id>
-		<version>4.4.0.32</version>
+		<version>4.4.0.33</version>
 		<title>Dataram RAMDisk</title>
 		<authors>Dataram</authors>
 		<owners>patm</owners>

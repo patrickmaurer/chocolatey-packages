@@ -1,6 +1,6 @@
 $packageName = 'dataram-ramdisk'
 $installerType = 'MSI'
-$url = 'http://memory.dataram.com/__downloads/memory/ramdisk/Dataram_RAMDisk_4_4_0_RC32.msi'
+$url = 'http://memory.dataram.com/__downloads/memory/ramdisk/Dataram_RAMDisk_4_4_0_RC33.msi'
 $silentArgs = '/quiet /norestart'
 $validExitCodes = @(0,3010)
 
