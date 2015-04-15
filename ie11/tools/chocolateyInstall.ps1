@@ -42,5 +42,4 @@ if ($majorVersion -lt 11) {
 }
 else {
 	Write-Host "You currently have IE $majorVersion installed."
-	Write-ChocolateySuccess 'ie11'
 }
