@@ -1,6 +1,6 @@
 ﻿$packageName = 'boxcryptor'
 $installerType = 'MSI'
-$32BitUrl = 'https://d3k3ih5otj72mn.cloudfront.net/Boxcryptor_v2.0.437.408_Setup.msi'
+$32BitUrl = 'https://d3k3ih5otj72mn.cloudfront.net/Boxcryptor_v2.1.405.86_Setup.msi'
 $silentArgs = '/quiet /norestart'
 $validExitCodes = @(0,3010)
 
