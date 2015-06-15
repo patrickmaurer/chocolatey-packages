@@ -10,5 +10,3 @@ Remove-Item "$toolsDir\GRMSDK_EN_DVD.iso"
 
 Install-ChocolateyInstallPackage 'windows-sdk-7.1' 'EXE' "-q -params:ADDLOCAL=ALL" "$toolsDir\GRMSDK_EN_DVD\setup.exe" -validExitCodes @(0,3010)
 Remove-Item "$toolsDir\GRMSDK_EN_DVD" -recurse
-
-Write-ChocolateySuccess 'windows-sdk-7.1'

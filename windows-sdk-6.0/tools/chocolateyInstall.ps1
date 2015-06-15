@@ -7,5 +7,3 @@ Remove-Item "$toolsDir\WinSDK_Vista_rtm.iso"
 
 Install-ChocolateyInstallPackage 'windows-sdk-6.0' 'EXE' "-q -params:ADDLOCAL=ALL" "$toolsDir\WinSDK_Vista_rtm\Setup.Exe" -validExitCodes @(0,3010)
 Remove-Item "$toolsDir\WinSDK_Vista_rtm" -recurse
-
-Write-ChocolateySuccess 'windows-sdk-6.0'

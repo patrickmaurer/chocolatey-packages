@@ -7,5 +7,3 @@ Remove-Item "$toolsDir\KRMSDK_EN.iso"
 
 Install-ChocolateyInstallPackage 'windows-sdk-6.1' 'EXE' "-q -params:ADDLOCAL=ALL" "$toolsDir\KRMSDK_EN\Setup.Exe" -validExitCodes @(0,3010)
 Remove-Item "$toolsDir\KRMSDK_EN" -recurse
-
-Write-ChocolateySuccess 'windows-sdk-6.1'

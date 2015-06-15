@@ -19,5 +19,3 @@ if ($is64bit) {
 
 Remove-Item "$toolsDir\MSBuild.Extension.Pack.July.2014" -recurse
 Remove-Item "$toolsDir\MSBuild Extension Pack 4.0.10.0" -recurse
-
-Write-ChocolateySuccess "$packageName"
