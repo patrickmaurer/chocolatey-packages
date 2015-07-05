@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>msbuild.extensionpack</id>
-		<version>4.0.10.0</version>
+		<version>4.0.11.0</version>
 		<title>MSBuild Extension Pack</title>
 		<authors>Mike Fourie</authors>
 		<owners>patm</owners>
