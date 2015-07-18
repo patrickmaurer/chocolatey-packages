@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>echotool</id>
-		<version>1.5</version>
+		<version>1.5.0.20150718</version>
 		<title>EchoTool</title>
 		<authors>Pavel Bansky</authors>
 		<owners>patm</owners>
@@ -11,7 +11,7 @@
 			Command line echo server and client for Windows. This tool is designed according to RFC 862 specification for Echo protocol.
 			It can operate as a echo server that sends back every incoming data. In client mode, it sends data to the server and checks whether they came back.
 		</description>
-		<projectUrl>http://bansky.net/echotool/</projectUrl>
+		<projectUrl>https://github.com/pbansky/EchoTool</projectUrl>
 		<licenseUrl>https://github.com/pbansky/EchoTool/blob/master/README.md</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<tags>EchoTool RFC862 echo protocol tcp udp source destination port listen client server</tags>
