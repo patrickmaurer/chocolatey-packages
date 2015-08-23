@@ -1,3 +1,7 @@
-﻿Install-ChocolateyPackage `
-	'microsoft-build-tools' 'exe' "/Passive /NoRestart /Log $($env:temp)\microsoft-build-tools.log" `
-	'http://download.microsoft.com/download/9/B/B/9BB1309E-1A8F-4A47-A6C5-ECF76672A3B3/BuildTools_Full.exe' -validExitCodes @(0,3010)
+﻿$packageName = 'microsoft-build-tools'
+$installerType = 'EXE'
+$url = 'http://download.microsoft.com/download/E/E/D/EEDF18A8-4AED-4CE0-BEBE-70A83094FC5A/BuildTools_Full.exe'
+$silentArgs = "/Passive /NoRestart /Log $($env:temp)\microsoft-build-tools-2015.log"
+$validExitCodes = @(0,3010)
+
+Install-ChocolateyPackage "$packageName" "$installerType" "$silentArgs" "$url" -validExitCodes $validExitCodes
