@@ -7,17 +7,20 @@
 		<authors>Microsoft Corporation</authors>
 		<owners>patm</owners>
 		<summary>Microsoft .NET Framework 4.6 Targeting Pack for Windows Vista SP2, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2008 SP2 Windows Server 2008 R2 SP1, Windows Server 2012, Windows Server 2012 R2 and Windows 10.</summary>
-		<description>The .NET Framework 4.6 Targeting Pack is a package that enables developers to build applications targeting the .NET Framework 4.6 using either Visual Studio 2013, Visual Studio 2012 or third party IDEs. You need to download and install the .NET Framework 4.6 prior to installing the targeting pack.</description>
+		<description>
+The .NET Framework 4.6 Targeting Pack is a package that enables developers to build applications targeting the .NET Framework 4.6 using either Visual Studio 2013, Visual Studio 2012 or third party IDEs. You need to download and install the .NET Framework 4.6 prior to installing the targeting pack.
+### Note
+This package is only provided for compatibility with previous naming conventions.
+		</description>
 		<projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=48136</projectUrl>
 		<licenseUrl>https://msdn.microsoft.com/en-us/library/ms994405.aspx</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<tags>Microsoft .NET Framework 4.6 Developer Pack Multi Targeting dotnet netfx KB2901951</tags>
 		<iconUrl>https://www.microsoft.com/net/images/chrome/net-logo.jpg</iconUrl>
 		<dependencies>
-			<dependency id="dotnet4.6" version="4.6.00081.20150819" />
+			<dependency id="dotnet4.6-targetpack" />
 		</dependencies>
 	</metadata>
 	<files>
-		<file src="tools\**" target="tools" />
 	</files>
 </package>
