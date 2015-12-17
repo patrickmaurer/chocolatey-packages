@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>windows-sdk-10.1</id>
+		<version>10.1.10586.15</version>
+		<title>Microsoft Windows SDK for Windows 10 and .NET Framework 4.6 (November 2015)</title>
+		<authors>Microsoft Corporation</authors>
+		<owners>patm</owners>
+		<summary>Microsoft Windows Software Development Kit (SDK) for Windows 10</summary>
+		<description>The Windows Software Development Kit (SDK) for Windows 10 contains headers, libraries, and tools you can use when you create apps that run on Windows operating systems. With the Windows SDK, you can begin building Universal Windows apps and desktop apps for Windows 10, Version 1511. This SDK also supports building Windows apps and desktop applications for Windows 8.1, Windows 8, Windows 7, Windows Vista, Windows Server 2012, Windows Server 2008 R2, and Windows Server 2008.</description>
+		<projectUrl>https://dev.windows.com/en-us/downloads/windows-10-sdk</projectUrl>
+		<licenseUrl>https://dev.windows.com/en-us/downloads/windows-10-sdk</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<tags>Microsoft Windows Software Development Kit SDK 10 .NET Framework 4.6 dotnet netfx</tags>
+		<iconUrl>http://c.s-microsoft.com/en-us/CMSImages/windows_symbol_clr_56x56.png?version=3db565f2-d75c-d989-182d-07edaedef3c8</iconUrl>
+		<dependencies>
+			<dependency id="dotnet4.5" />
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
+</package>
