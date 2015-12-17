@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>windows-sdk-10</id>
-		<version>10.0.26624</version>
+		<version>10.1.10586.15</version>
 		<title>Microsoft Windows SDK for Windows 10 and .NET Framework 4.6</title>
 		<authors>Microsoft Corporation</authors>
 		<owners>patm</owners>
@@ -16,7 +16,7 @@
 		<tags>Microsoft Windows Software Development Kit SDK 10 .NET Framework 4.6 dotnet netfx</tags>
 		<iconUrl>http://c.s-microsoft.com/en-us/CMSImages/windows_symbol_clr_56x56.png?version=3db565f2-d75c-d989-182d-07edaedef3c8</iconUrl>
 		<dependencies>
-			<dependency id="windows-sdk-10.0" />
+			<dependency id="windows-sdk-10.1" />
 		</dependencies>
 	</metadata>
 	<files>
