@@ -1,6 +1,6 @@
 ﻿$packageName = 'OpenOffice'
 $installerType = 'EXE'
-$32BitUrl = 'http://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.1/binaries/en-US/Apache_OpenOffice_4.1.1_Win_x86_install_en-US.exe'
+$32BitUrl = 'http://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.2/binaries/en-US/Apache_OpenOffice_4.1.2_Win_x86_install_en-US.exe'
 $silentArgs = '/S'
 $validExitCodes = @(0)
 
