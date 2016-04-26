@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>VisualStudio2015TestProfessional</id>
+    <version>14.0.23107.10</version>
+    <title>Visual Studio 2015 Test Professional</title>
+    <authors>Microsoft</authors>
+    <owners>patm</owners>
+    <licenseUrl>http://msdn.microsoft.com/en-US/cc300389.aspx</licenseUrl>
+    <projectUrl>https://www.visualstudio.com/products/visual-studio-test-professional-with-msdn-vs.aspx</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/KennethB/Chocolatey-Packages/master/icons/VS2015.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+        ### Streamline quality
+        Quality at the center of your software development
+
+        ### Continuous delivery
+        Integrated test case management, manual and exploratory testing tools
+
+        ### Subscriber benefits 
+        Ship regularly and predictably on any platform
+
+        Note: This package is the Update 1 version.
+    </description>
+    <summary>Drive quality and collaboration throughout the development process</summary>
+    <releaseNotes></releaseNotes>
+    <tags>Microsoft Visual Studio 2015 Test Professional IDE MTM admin</tags>
+    <docsUrl>https://msdn.microsoft.com/library</docsUrl>
+  </metadata>
+</package>
