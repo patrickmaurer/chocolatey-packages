@@ -7,8 +7,12 @@
 		<authors>SAP</authors>
 		<owners>patm</owners>
 		<summary>Crystal Reports version for Visual Studio</summary>
-		<description>SAP Crystal Reports, developer version for Microsoft Visual Studio</description>
-		<tags>SAP Crystal Reports developer version for Microsoft Visual Studio</tags>
+		<description>
+			SAP Crystal Reports, developer version for Microsoft Visual Studio
+			### Note
+			You must already have Visual Studio 2010, Visual Studio 2012, Visual Studio 2013, or Visual Studio 2015 installed to proceed with this installation.
+		</description>
+		<tags>SAP Crystal Reports developer version for Microsoft Visual Studio admin</tags>
 		<projectUrl>http://scn.sap.com/docs/DOC-7824</projectUrl>
 		<licenseUrl>http://scn.sap.com/docs/DOC-7824</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
