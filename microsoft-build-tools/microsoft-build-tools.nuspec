@@ -9,10 +9,11 @@
 		<summary>Microsoft Build Tools 2015 provides the essential tools for building managed applications.</summary>
 		<description>If you don't already have Visual Studio installed on your computer, Microsoft Build Tools 2015 provides the essential tools for building managed applications. These tools previously were included in the .NET Framework, but they are now available as this separate download. The Visual Basic and C# compilers are also included in this download.</description>
 		<releaseNotes>https://www.visualstudio.com/news/vs2015-update2-vs</releaseNotes>
-		<projectUrl>https://github.com/Microsoft/msbuild</projectUrl>
-		<licenseUrl>https://www.visualstudio.com/downloads/download-visual-studio-vs#d-build-tools</licenseUrl>
+		<projectUrl>https://www.visualstudio.com/downloads/download-visual-studio-vs#d-build-tools</projectUrl>
+		<projectSourceUrl>https://github.com/Microsoft/msbuild</projectSourceUrl>
+		<licenseUrl>https://www.microsoft.com/en-us/download/details.aspx?id=48159</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<tags>Microsoft Build Tools 2015 MSBuild Compiler</tags>
+		<tags>Microsoft Build Tools 2015 MSBuild Compiler admin</tags>
 		<iconUrl>https://openmerchantaccount.com/img/MSBuild.png</iconUrl>
 		<dependencies>
 			<dependency id="dotnet4.5.2" version="4.5.2.20140902" />
