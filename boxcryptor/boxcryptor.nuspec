@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
 	<metadata>
 		<id>boxcryptor</id>
-		<version>2.2.423.322</version>
+		<version>2.7.503</version>
 		<title>Boxcryptor</title>
 		<authors>Secomba GmbH</authors>
 		<owners>patm</owners>
@@ -12,7 +12,7 @@
 		<licenseUrl>https://www.boxcryptor.com/terms</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>https://lh4.ggpht.com/MnK1TvfM-kQtvSB2T2l5r6P0EIdLvzHyXqlCD3B14ZF9nzTMub37UbjIyh06MFk1CA</iconUrl>
-		<tags>boxcryptor classic security encryption secomba cloud storage provider dropbox google drive microsoft onedrive sugarsync admin notsilent</tags>
+		<tags>boxcryptor security encryption secomba cloud storage provider dropbox google drive microsoft onedrive sugarsync admin notsilent</tags>
 	</metadata>
 	<files>
 		<file src="tools\**" target="tools" />
