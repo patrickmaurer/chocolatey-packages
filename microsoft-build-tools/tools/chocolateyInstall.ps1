@@ -1,7 +1,9 @@
 ﻿$packageName = 'microsoft-build-tools'
 $installerType = 'EXE'
-$url = 'http://download.microsoft.com/download/4/3/3/4330912d-79ae-4037-8a55-7a8fc6b5eb68/buildtools_full.exe'
-$silentArgs = "/Passive /NoRestart /Log ""$($env:temp)\microsoft-build-tools-2015.log"""
+$url = 'https://download.microsoft.com/download/5/A/8/5A8B8314-CA70-4225-9AF0-9E957C9771F7/vs_BuildTools.exe'
+$checksum = 'E77D433C44F3D0CBF7A3EFA497101DE93918C492C2EBCAEC79A1FAF593D419BC'
+$checksumType = 'sha256'
+$silentArgs = "--quiet --norestart"
 $validExitCodes = @(0,3010)
 
-Install-ChocolateyPackage "$packageName" "$installerType" "$silentArgs" "$url" -validExitCodes $validExitCodes
+Install-ChocolateyPackage "$packageName" "$installerType" "$silentArgs" "$url" -checksum "$checksum" -checksumType "$checksumType" -validExitCodes $validExitCodes
