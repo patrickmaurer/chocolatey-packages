@@ -21,6 +21,7 @@ This package installs MSBuild only. For Visual C++ Build Tools see [visualcpp-bu
 		<iconUrl>https://openmerchantaccount.com/img/MSBuild.png</iconUrl>
 		<dependencies>
 			<dependency id="dotnet4.5.2" version="4.5.2.20140902" />
+			<dependency id="kb2919355" version="1.0.20160915" />
 		</dependencies>
 	</metadata>
 	<files>
