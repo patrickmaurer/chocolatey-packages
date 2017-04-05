@@ -12,7 +12,7 @@
 		<licenseUrl>http://memory.dataram.com/products-and-services/software/ramdisk-license-agreement</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>https://openmerchantaccount.com/img/RAMDisk.png</iconUrl>
-		<tags>Dataram RAMDisk virtual memory ram disk drive</tags>
+		<tags>Dataram RAMDisk virtual memory ram disk drive admin</tags>
 	</metadata>
 	<files>
 		<file src="tools\**" target="tools" />
