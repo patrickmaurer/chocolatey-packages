@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>h2testw</id>
+		<version>1.4</version>
+		<title>H2testw</title>
+		<authors>Harald Bögeholz</authors>
+		<owners>patm</owners>
+		<summary>Data integrity test for USB sticks and other media.</summary>
+		<description>
+			Data integrity test for USB sticks and other media
+			H2testw was developed to test USB sticks for various kinds of errors.
+			It can also be used for any other storage media like memory cards,
+			internal and external hard drives and even network volumes.
+		</description>
+		<projectUrl>http://www.heise.de/ct/c-t-Systeminfo-473388.html</projectUrl>
+		<licenseUrl>http://www.heise.de/ct/c-t-Systeminfo-473388.html</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<iconUrl>https://openmerchantaccount.com/img/h2testw.png</iconUrl>
+		<tags>h2testw data integrity test usb storage memory cards </tags>
+	</metadata>
+	<files>
+		<file src="tools\**" target="tools" />
+	</files>
+</package>
