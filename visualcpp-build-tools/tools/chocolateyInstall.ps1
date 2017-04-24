@@ -16,7 +16,7 @@ if ($pp["IncludeRequired"] -eq $null -and $pp["IncludeRecommended"] -eq $null -a
 if ($pp["IncludeOptional"] -eq 'true') {
 	$silentArgs += ' --includeOptional'
 }
-else if ($pp["IncludeOptional"] -eq 'true') {
+else if ($pp["IncludeRecommended"] -eq 'true') {
 	$silentArgs += ' --includeRecommended'
 }
 else {
