@@ -30,6 +30,7 @@ For example: `--params "'/locale:de'"`.</description>
 		<tags>Apache OpenOffice OpenOffice.org Writer Calc Impress Draw Base Math Word Processing Spreadsheet Calculation Presentation Graphic Database ODF OpenXML admin</tags>
 		<dependencies>
 			<dependency id="chocolatey-core.extension" version="1.1.0" />
+			<dependency id="vcredist2008" />
 		</dependencies>
 	</metadata>
 	<files>
