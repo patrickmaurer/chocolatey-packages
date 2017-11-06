@@ -7,11 +7,9 @@
 		<authors>SAP</authors>
 		<owners>patm</owners>
 		<summary>Crystal Reports version for Visual Studio</summary>
-		<description>
-			SAP Crystal Reports, developer version for Microsoft Visual Studio
-			### Note
-			You must already have Visual Studio 2010, Visual Studio 2012, Visual Studio 2013, Visual Studio 2015, or Visual Studio 2017 installed to proceed with this installation.
-		</description>
+		<description>SAP Crystal Reports, developer version for Microsoft Visual Studio
+### Note
+You must already have Visual Studio 2010, Visual Studio 2012, Visual Studio 2013, Visual Studio 2015, or Visual Studio 2017 installed to proceed with this installation.</description>
 		<releaseNotes>https://wiki.scn.sap.com/wiki/x/OpOgGg</releaseNotes>
 		<tags>SAP Crystal Reports developer version for Microsoft Visual Studio admin</tags>
 		<projectUrl>https://wiki.scn.sap.com/wiki/display/BOBJ/Crystal+Reports%2C+Developer+for+Visual+Studio+Downloads</projectUrl>
