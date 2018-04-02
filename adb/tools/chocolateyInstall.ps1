@@ -1,7 +1,7 @@
 ﻿$packageName = 'adb'
 $url = 'https://dl-ssl.google.com/android/repository/platform-tools_r27.0.1-windows.zip'
 $checksum = '880662ADFB0D6911FF250B9E13930AE1A4110FC36D5866AFD4F8F56D935F7939'
-$checksumType = 'sha1'
+$checksumType = 'sha256'
 $unzipLocation = $(Split-Path -parent $MyInvocation.MyCommand.Definition)
 
 $existingAdb = Get-Command -Name adb.exe -ErrorAction SilentlyContinue
