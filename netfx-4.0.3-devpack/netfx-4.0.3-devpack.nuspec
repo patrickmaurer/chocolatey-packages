@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>netfx-4.0.3-devpack</id>
-		<version>4.0.551</version>
+		<version>4.0.551.20180614</version>
 		<title>Microsoft .NET Framework 4.0.3 Developer Pack</title>
 		<authors>Microsoft Corporation</authors>
 		<owners>patm</owners>
@@ -11,10 +11,10 @@
 			This is the Targeting Pack for the Update 4.0.3 for Microsoft .NET Framework 4 to add support for designing and developing applications on Microsoft Visual Studio.
 			Note: The .NET Framework 4.0 Targeting Pack needs to be installed prior to installing this package. It is included in Windows SDK v7.1 or Visual Studio 2010.
 		</description>
-		<projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=29052</projectUrl>
-		<licenseUrl>http://msdn.microsoft.com/en-us/library/ms994405.aspx</licenseUrl>
+		<projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=29052</projectUrl>
+		<licenseUrl>https://msdn.microsoft.com/en-us/library/ms994405.aspx</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<tags>Microsoft .NET Framework 4.0.3 Developer Pack Multi Targeting dotnet netfx KB2600213</tags>
+		<tags>Microsoft .NET Framework 4.0.3 Developer Pack Multi Targeting dotnet netfx KB2600213 admin</tags>
 		<iconUrl>https://www.microsoft.com/net/images/chrome/net-logo.jpg</iconUrl>
 	</metadata>
 	<files>
