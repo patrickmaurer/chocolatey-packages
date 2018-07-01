@@ -16,7 +16,7 @@ The .NET Framework 4.0 Targeting Pack needs to be installed prior to installing 
 		<licenseUrl>https://msdn.microsoft.com/en-us/library/ms994405.aspx</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<tags>Microsoft .NET Framework 4.0.3 Developer Pack Multi Targeting dotnet netfx KB2600213 admin</tags>
-		<iconUrl>https://www.microsoft.com/net/images/chrome/net-logo.jpg</iconUrl>
+		<iconUrl>https://cdn.rawgit.com/jberezanski/ChocolateyPackages/f0b24b6aef7a58ec03550035644ce872aba13c23/icons/dotnet.png</iconUrl>
 	</metadata>
 	<files>
 		<file src="tools\**" target="tools" />
