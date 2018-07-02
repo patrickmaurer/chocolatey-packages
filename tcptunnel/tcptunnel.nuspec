@@ -11,7 +11,7 @@
 		<projectUrl>http://www.vakuumverpackt.de/tcptunnel/</projectUrl>
 		<licenseUrl>https://github.com/vakuum/tcptunnel/blob/master/COPYING</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<iconUrl>https://openmerchantaccount.com/img/tcptunnel.png</iconUrl>
+		<iconUrl>https://raw.githubusercontent.com/patrickmaurer/chocolatey-packages/master/tcptunnel/tcptunnel.png</iconUrl>
 		<tags>TCP tunnel port forwarder listen received data send remote host</tags>
 	</metadata>
 	<files>
