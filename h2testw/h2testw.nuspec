@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>h2testw</id>
-		<version>1.4</version>
+		<version>1.4.20080211</version>
 		<title>H2testw</title>
 		<authors>Harald Bögeholz</authors>
 		<owners>patm</owners>
@@ -13,10 +13,10 @@
 			It can also be used for any other storage media like memory cards,
 			internal and external hard drives and even network volumes.
 		</description>
-		<projectUrl>http://www.heise.de/ct/c-t-Systeminfo-473388.html</projectUrl>
-		<licenseUrl>http://www.heise.de/ct/c-t-Systeminfo-473388.html</licenseUrl>
+		<projectUrl>https://www.heise.de/ct/c-t-Systeminfo-473388.html</projectUrl>
+		<licenseUrl>https://www.heise.de/ct/c-t-Systeminfo-473388.html</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<iconUrl>https://openmerchantaccount.com/img/h2testw.png</iconUrl>
+		<iconUrl>https://heise.cloudimg.io/bound/743x453/tjpeg.q85.webp-lossy-85.foil1/_www-heise-de_/download/media/h2testw-50539/h2testw_1-1-24.jpg</iconUrl>
 		<tags>h2testw data integrity test usb storage memory cards </tags>
 	</metadata>
 	<files>
