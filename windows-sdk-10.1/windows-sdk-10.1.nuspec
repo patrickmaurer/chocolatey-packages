@@ -2,22 +2,23 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>windows-sdk-10.1</id>
-		<version>10.1.15063.468</version>
+		<version>10.1.17134.12</version>
 		<title>Microsoft Windows SDK for Windows 10 and .NET Framework 4.7</title>
 		<authors>Microsoft Corporation</authors>
 		<owners>patm</owners>
-		<summary>Microsoft Windows Software Development Kit (SDK) for Windows 10</summary>
-		<description>The Windows 10 SDK provides the latest headers, libraries, metadata, and tools for building Windows 10 apps. The Windows 10 SDK, when used in conjunction with Visual Studio 2017, will provide the optimum experience for building apps for Windows- allowing you to take advantage of the latest tools and APIs delivered the Windows 10 Creators Update.
-In addition to targeting the Windows 10 Creators Update, this SDK allows you to build Universal Windows Platform apps as well as desktop apps on all versions of Windows 10. This SDK also supports building desktop apps on Windows 8.1, Windows 7 SP1, Windows Server 2016, and Windows Server 2012 R2. For earlier versions of the Windows and Windows Phone SDKs, see the Archive page.
+		<summary>Microsoft Windows Software Development Kit (SDK) for Windows 10, version 1803</summary>
+		<description>
+The Windows 10 SDK for Windows 10, version 1803 provides the latest headers, libraries, metadata, and tools for building Windows 10 apps.
 ### Note:
-Windows 10 app development targeting Windows 10 Creators Update requires Visual Studio 2017. This SDK will not be discovered by previous versions of Visual Studio.</description>
+Windows 10 development targeting Windows 10, version 1803 (or later) requires Visual Studio 2017. This SDK will not be discovered by previous versions of Visual Studio.
+		</description>
 		<projectUrl>https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk</projectUrl>
 		<licenseUrl>https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<tags>Microsoft Windows Software Development Kit SDK 10 .NET Framework 4.7 dotnet netfx admin</tags>
 		<iconUrl>http://c.s-microsoft.com/en-us/CMSImages/windows_symbol_clr_56x56.png?version=3db565f2-d75c-d989-182d-07edaedef3c8</iconUrl>
 		<dependencies>
-			<dependency id="dotnet4.5" />
+			<dependency id="KB2999226" />
 		</dependencies>
 	</metadata>
 	<files>
