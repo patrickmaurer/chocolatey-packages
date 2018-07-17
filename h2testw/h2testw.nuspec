@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>h2testw</id>
-		<version>1.4.20080211</version>
+		<version>1.4.20180717</version>
 		<title>H2testw</title>
 		<authors>Harald Bögeholz</authors>
 		<owners>patm</owners>
