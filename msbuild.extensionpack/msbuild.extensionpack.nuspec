@@ -14,7 +14,7 @@
 		<docsUrl>https://github.com/mikefourie/MSBuildExtensionPack/wiki</docsUrl>
 		<bugTrackerUrl>https://github.com/mikefourie/MSBuildExtensionPack/issues</bugTrackerUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<iconUrl>https://image.ibb.co/iW7FDd/MSBuild.png</iconUrl>
+		<iconUrl>https://raw.githubusercontent.com/nuproj/nuproj.net/gh-pages/images/MSBuild.png</iconUrl>
 		<tags>msbuild extension pack admin</tags>
 	</metadata>
 	<files>
