@@ -1,9 +1,9 @@
 ﻿$packageName = 'boxcryptor'
 $installerType = 'MSI'
-$url = 'https://downloads.boxcryptor.com//boxcryptor/windows/Boxcryptor_v2.30.833_Setup.msi'
-$checksum = '1A2FC57CC8F5C7B86534C7AE1487FD1BD39FF77D2E24B0C89F041FDE9FDBA9D7'
+$url = 'https://downloads.boxcryptor.com//boxcryptor/windows/Boxcryptor_v2.31.870_Setup.msi'
+$checksum = 'C8F3134021475C19E6D505B3E1D13BE8A514C55B4080E521476A5E320B5CF785'
 $checksumType = 'sha256'
-$silentArgs = "/Quiet /NoRestart /Log ""$($env:temp)\boxcryptor-2.30.833-install.log"""
+$silentArgs = "/Quiet /NoRestart /Log ""$($env:temp)\boxcryptor-2.31.870-install.log"""
 $validExitCodes = @(0,3010)
 
 Install-ChocolateyPackage "$packageName" "$installerType" "$silentArgs" "$url" -checksum "$checksum" -checksumType "$checksumType" -validExitCodes $validExitCodes
