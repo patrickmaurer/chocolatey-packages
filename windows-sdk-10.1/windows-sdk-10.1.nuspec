@@ -2,15 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>windows-sdk-10.1</id>
-		<version>10.1.17134.12</version>
+		<version>10.1.17763.1</version>
 		<title>Microsoft Windows SDK for Windows 10 and .NET Framework 4.7</title>
 		<authors>Microsoft Corporation</authors>
 		<owners>patm</owners>
 		<summary>Microsoft Windows Software Development Kit (SDK) for Windows 10, version 1803</summary>
 		<description>
-The Windows 10 SDK for Windows 10, version 1803 provides the latest headers, libraries, metadata, and tools for building Windows 10 apps.
+The Windows 10 SDK for Windows 10, version 1809 provides the latest headers, libraries, metadata, and tools for building Windows 10 apps.
 ### Note:
-Windows 10 development targeting Windows 10, version 1803 (or later) requires Visual Studio 2017. This SDK will not be discovered by previous versions of Visual Studio.
+Windows 10 development targeting Windows 10, version 1809 (or later) requires Visual Studio 2017. This SDK will not be discovered by previous versions of Visual Studio.
 		</description>
 		<projectUrl>https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk</projectUrl>
 		<licenseUrl>https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk</licenseUrl>

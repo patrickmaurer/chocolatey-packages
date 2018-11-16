@@ -1,7 +1,7 @@
 ﻿$packageName = 'windows-sdk-10.1'
 $installerType = 'EXE'
-$url = 'https://download.microsoft.com/download/5/A/0/5A08CEF4-3EC9-494A-9578-AB687E716C12/windowssdk/winsdksetup.exe'
-$checksum = '93C9DCA3A9F28061A601F3E6B737DEDE40C2C77CFD200ED5CB6EFE2AB0C9D5CC'
+$url = 'https://download.microsoft.com/download/9/3/9/939441D4-6FBA-48EE-9EF7-402C1AA8B8A7/windowssdk/winsdksetup.exe'
+$checksum = '8C804DFF709D197119D721CC1C6B7DFDEF581B0D708A371A6B1286FC409BAE18'
 $checksumType = 'sha256'
 $silentArgs = "/Quiet /NoRestart /Log ""$env:temp\${packageName}_$([Guid]::NewGuid().ToString('D')).log"""
 $validExitCodes = @(0,3010)
