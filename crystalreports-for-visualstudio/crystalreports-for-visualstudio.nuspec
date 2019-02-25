@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>crystalreports-for-visualstudio</id>
-		<version>13.0.23.2819</version>
+		<version>13.0.24.2970</version>
 		<title>Crystal Reports, version for Visual Studio</title>
 		<authors>SAP</authors>
 		<owners>patm</owners>
