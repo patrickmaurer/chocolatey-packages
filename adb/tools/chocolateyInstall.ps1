@@ -1,6 +1,6 @@
 ﻿$packageName = 'adb'
-$url = 'https://dl-ssl.google.com/android/repository/platform-tools_r29.0.3-windows.zip'
-$checksum = 'DF1042CBA236BFB936B7F637BCC39D3ED969F23B62F81D6A859ECB4BBEEC3BF4'
+$url = 'https://dl-ssl.google.com/android/repository/platform-tools_r29.0.4-windows.zip'
+$checksum = '4B68146747A0025732BD4778E8AEC051E601D21AC01A836249497D4DFA0B1CB2'
 $checksumType = 'sha256'
 $unzipLocation = $(Split-Path -parent $MyInvocation.MyCommand.Definition)
 
