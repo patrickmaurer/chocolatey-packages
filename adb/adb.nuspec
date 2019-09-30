@@ -2,16 +2,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>adb</id>
-		<version>29.0.2</version>
+		<version>29.0.3</version>
 		<title>Android Debug Bridge</title>
 		<authors>Google</authors>
 		<owners>patm</owners>
 		<summary>Android Debug Bridge (adb) is a versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device.</summary>
-		<description>Android Debug Bridge (adb) is a versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device.</description>
+		<description>Android Debug Bridge (adb) is a versatile command line tool that lets you communicate with an emulator instance or connected Android-powered device. This package also includes the fastboot.exe command.</description>
 		<projectUrl>https://developer.android.com/tools/help/adb.html</projectUrl>
 		<licenseUrl>https://developer.android.com/sdk/terms.html</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<tags>adb android debug bridge</tags>
+		<tags>adb fastboot android debug bridge</tags>
 		<iconUrl>https://xda-developers.com/wp-content/uploads/2014/06/6a00d83451c9ec69e20154330c7650970c-pi.jpg</iconUrl>
 	</metadata>
 	<files>
