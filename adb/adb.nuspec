@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>adb</id>
-		<version>30.0.4</version>
+		<version>30.0.5</version>
 		<title>Android Debug Bridge</title>
 		<authors>Google</authors>
 		<owners>patm</owners>
