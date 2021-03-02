@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
 	<metadata>
 		<id>OpenOffice</id>
-		<version>4.1.8</version>
+		<version>4.1.9</version>
 		<title>Apache OpenOffice</title>
 		<authors>Apache Software Foundation</authors>
 		<owners>patm</owners>
@@ -20,7 +20,7 @@ These parameters can be passed to the installer with the use of `--params`.
 For example: `--params "'/locale:de'"`.</description>
 		<projectUrl>https://www.openoffice.org/</projectUrl>
 		<licenseUrl>https://www.openoffice.org/license.html</licenseUrl>
-		<releaseNotes>https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.8+Release+Notes</releaseNotes>
+		<releaseNotes>https://cwiki.apache.org/confluence/display/OOOUSERS/AOO+4.1.9+Release+Notes</releaseNotes>
 		<docsUrl>https://wiki.openoffice.org/wiki/Documentation</docsUrl>
 		<mailingListUrl>https://openoffice.apache.org/mailing-lists.html</mailingListUrl>
 		<bugTrackerUrl>https://bz.apache.org/ooo/</bugTrackerUrl>
