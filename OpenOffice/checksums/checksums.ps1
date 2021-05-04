@@ -1,18 +1,24 @@
-﻿$url = 'https://master.dl.sourceforge.net/project/openofficeorg.mirror/4.1.9/binaries/en-US/Apache_OpenOffice_4.1.9_Win_x86_install_en-US.exe'
+﻿$url = 'https://downloads.apache.org/openoffice/4.1.10/binaries/en-US/Apache_OpenOffice_4.1.10_Win_x86_install_en-US.exe.sha256'
 
 $locales = @('ast', 'bg', 'ca', 'ca-XR', 'ca-XV', 'cs', 'da', 'de', 'el', 'en-GB', 'en-US', 'es', 'eu', 'fi', 'fr', 'gd', 'gl', 'he', 'hi', 'hu', 'it', 'ja', 'km', 'ko', 'lt', 'nb', 'nl', 'pl', 'pt', 'pt-BR', 'ru', 'sk', 'sl', 'sr', 'sv', 'ta', 'th', 'tr', 'vi', 'zh-CN', 'zh-TW')
 
 foreach ($locale in $locales) {
 	$localeUrl = $url -replace 'en-US', $locale
-	$outFile = "D:\Temp\OOO\$locale\setup.exe"
 
-	echo "downloading: $localeUrl"
-	echo "to file:     $outFile"
+	$webClient = New-Object System.Net.WebClient
+	$content = $webClient.DownloadString($localeUrl)
 
-	New-Item -ItemType Directory -Force -Path "D:\Temp\OOO\$locale"
+	$sha256 = $content.substring(0, $content.indexOf(' '))
 
-	Invoke-WebRequest -Uri $localeUrl -OutFile $outFile
-	C:\ProgramData\chocolatey\lib\chocolatey\tools\chocolateyInstall\tools\checksum.exe "$outFile" --type sha256
+	$padding = "";
+	if ($locale.length -eq 3) {
+		$padding = "  "
+	}
+	if ($locale.length -eq 2) {
+		$padding = "   "
+	}
+
+	echo "	'${locale}' ${padding}= '${sha256}';"
 }
 
 pause
