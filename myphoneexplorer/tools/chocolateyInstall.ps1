@@ -1,8 +1,8 @@
 ﻿$packageName = 'myphoneexplorer'
 $installerType = 'EXE'
-$32BitUrl = 'https://www.fjsoft.at/files/MyPhoneExplorer_Setup_v1.8.15.exe'
-$checksum = '3416fe820ff100bf92bac809b7b2863307698142'
-$checksumType = 'sha1'
+$32BitUrl = 'https://www.fjsoft.at/files/MyPhoneExplorer_Setup_1.9.0.exe'
+$checksum = '1E26347C80CAF9F31BDBA7EF1C4CEAA0761F5CCF8409282003029499D1282C58'
+$checksumType = 'sha256'
 $silentArgs = '/S'
 $validExitCodes = @(0)
 

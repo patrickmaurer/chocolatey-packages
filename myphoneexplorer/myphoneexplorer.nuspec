@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>myphoneexplorer</id>
-		<version>1.8.15</version>
+		<version>1.9.0</version>
 		<title>MyPhoneExplorer</title>
 		<authors>FJ Software</authors>
 		<owners>patm</owners>
 		<summary>Simply explore your SonyEricsson or Android phone.</summary>
 		<description>Connect your phone via cable, bluetooth or infrared and you'll be surprised how easy and efficient it will be to manage your phone with our software. Since it's first release MyPhoneExplorer evolved into the most popular freeware tool for smartphones. The software is constantly updated with new features.</description>
-		<projectUrl>https://www.fjsoft.at/en/highlight.php</projectUrl>
-		<licenseUrl>https://www.fjsoft.at/en/eula_mpe.php</licenseUrl>
+		<projectUrl>https://www.fjsoft.at/en/</projectUrl>
+		<licenseUrl>https://www.fjsoft.at/en/</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<iconUrl>https://lh3.ggpht.com/oh1ZoRLDkRdp-KEwc-Str9lhfyhWE3I51Tc_W8jS_Q0QKRYqgRbUtmaL4zVFAayaAg</iconUrl>
 		<tags>MyPhoneExplorer Android Symbian Sony Ericsson Sync Synchronize Wifi USB Cable Adressbook Calendar Contacts Outlook Thunderbird Windows admin</tags>
