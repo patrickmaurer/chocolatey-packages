@@ -16,7 +16,6 @@ if (($existingFastboot -ne $null) -and ($existingFastboot.Path.StartsWith($env:C
 
 Install-ChocolateyZipPackage $packageName $url $unzipLocation -checksum $checksum -checksumType $checksumType -checksumType64 $checksumType
 
-Remove-Item "$unzipLocation\platform-tools\api" -recurse
 Remove-Item "$unzipLocation\platform-tools\systrace" -recurse
 Remove-Item "$unzipLocation\platform-tools\dmtracedump.exe"
 Remove-Item "$unzipLocation\platform-tools\etc1tool.exe"
