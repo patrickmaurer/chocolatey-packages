@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>windows-sdk-6.0</id>
-		<version>6.1.6000.16384</version>
+		<version>6.1.6000.20220204</version>
 		<title>Microsoft Windows SDK for Windows Vista and .NET Framework 3.0</title>
 		<authors>Microsoft Corporation</authors>
 		<owners>patm</owners>

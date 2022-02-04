@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>windows-sdk-7.1</id>
-		<version>7.1.7600.30514</version>
+		<version>7.1.7600.20220204</version>
 		<title>Microsoft Windows SDK for Windows 7 and .NET Framework 4</title>
 		<authors>Microsoft Corporation</authors>
 		<owners>patm</owners>
