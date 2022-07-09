@@ -1,6 +1,6 @@
 ﻿$packageName = 'adb'
-$url = 'https://dl-ssl.google.com/android/repository/platform-tools_r32.0.0-windows.zip'
-$checksum = '41F4C7512B32CBB3F8C624C20B56326ABB692A6F169B03B4B63B6C5A6FDBB08C'
+$url = 'https://dl.google.com/android/repository/platform-tools_r33.0.2-windows.zip'
+$checksum = 'C8CD6757416CC31B0D838A9D294EDA13863450D156FFA45C29DCDB2BCD7F08FE'
 $checksumType = 'sha256'
 $unzipLocation = $(Split-Path -parent $MyInvocation.MyCommand.Definition)
 
@@ -16,9 +16,12 @@ if (($existingFastboot -ne $null) -and ($existingFastboot.Path.StartsWith($env:C
 
 Install-ChocolateyZipPackage $packageName $url $unzipLocation -checksum $checksum -checksumType $checksumType -checksumType64 $checksumType
 
-Remove-Item "$unzipLocation\platform-tools\systrace" -recurse
 Remove-Item "$unzipLocation\platform-tools\dmtracedump.exe"
 Remove-Item "$unzipLocation\platform-tools\etc1tool.exe"
 Remove-Item "$unzipLocation\platform-tools\hprof-conv.exe"
 Remove-Item "$unzipLocation\platform-tools\source.properties"
 Remove-Item "$unzipLocation\platform-tools\sqlite3.exe"
+Remove-Item "$unzipLocation\platform-tools\make_f2fs.exe"
+Remove-Item "$unzipLocation\platform-tools\make_f2fs_casefold.exe"
+Remove-Item "$unzipLocation\platform-tools\mke2fs.conf"
+Remove-Item "$unzipLocation\platform-tools\mke2fs.exe"
