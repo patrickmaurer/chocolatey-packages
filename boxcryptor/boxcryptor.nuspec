@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
 	<metadata>
 		<id>boxcryptor</id>
-		<version>2.50.2196</version>
+		<version>2.52.2484</version>
 		<title>Boxcryptor</title>
 		<authors>Secomba GmbH</authors>
 		<owners>patm</owners>
