@@ -1,4 +1,4 @@
-﻿$url = 'https://downloads.apache.org/openoffice/4.1.13/binaries/en-US/Apache_OpenOffice_4.1.13_Win_x86_install_en-US.exe.sha256'
+﻿$url = 'https://downloads.apache.org/openoffice/4.1.14/binaries/en-US/Apache_OpenOffice_4.1.14_Win_x86_install_en-US.exe.sha256'
 
 $locales = @('ast', 'bg', 'ca', 'ca-XR', 'ca-XV', 'cs', 'da', 'de', 'el', 'en-GB', 'en-US', 'es', 'eu', 'fi', 'fr', 'gd', 'gl', 'he', 'hi', 'hu', 'it', 'ja', 'km', 'ko', 'lt', 'nb', 'nl', 'pl', 'pt', 'pt-BR', 'ru', 'sk', 'sl', 'sr', 'sv', 'ta', 'th', 'tr', 'vi', 'zh-CN', 'zh-TW')
 
